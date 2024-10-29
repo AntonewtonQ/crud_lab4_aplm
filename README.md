@@ -155,4 +155,4 @@ Sinta-se à vontade para contribuir com o projeto através de *pull requests*. P
 
 ---
 
-**Feito com ❤️ por [Seu Nome](https://github.com/AntonewtonQ)**
+**Feito com ❤️ por [antonewton](https://github.com/AntonewtonQ)**
